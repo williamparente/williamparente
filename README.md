@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**williamparente/williamparente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- ![ClipWindowsGIF](https://user-images.githubusercontent.com/115098811/204151723-214651b5-03bf-4601-80a5-09a6ea2b72da.gif)
+
